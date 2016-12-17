@@ -22,7 +22,7 @@ Administrator.pluckify(:id, :first_name, :last_name, AdministratorPresenter)
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'pluckify', github: 'https://github.com/rdelandesen/pluckify'
+gem 'pluckify', github: 'rdelandesen/pluckify'
 ```
 
 And then execute:
